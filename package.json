@@ -1,0 +1,15 @@
+{
+	"name": "Annis-Tan_quorum-assessment",
+	"version": "1.0.0",
+	"description": "quorum take home assessment",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Annis Tan",
+	"license": "ISC",
+	"dependencies": {
+		"convert-csv-to-json": "^1.3.3",
+		"json2csv": "^5.0.7"
+	}
+}
